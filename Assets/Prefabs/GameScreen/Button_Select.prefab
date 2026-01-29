@@ -136,6 +136,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   selectedVisual: {fileID: 88792561087231539}
+  text: {fileID: 5093818171929352039}
+  selectedColor: {r: 1, g: 0.101960786, b: 0.5921569, a: 1}
 --- !u!1 &88792561087231539
 GameObject:
   m_ObjectHideFlags: 0
