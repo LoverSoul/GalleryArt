@@ -9184,6 +9184,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Button_Select_Odd
       objectReference: {fileID: 0}
+    - target: {fileID: 88792561087231539, guid: e2e3a900ba732784ba346f1bbb08e1a8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1027348406557806078, guid: e2e3a900ba732784ba346f1bbb08e1a8, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
